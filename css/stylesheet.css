@@ -8,21 +8,25 @@
 
 }
 .titleclass{
-  height: 400px;
+
 }
 #title{
   font-family: 'Pacifico', cursive;
-  color: #232323;
-  font-size: 80px;
+  color: #fdadaa;
+  font-size: 100px;
   text-align: center;
-  margin-top: 300px;
-  margin-bottom: 300px;
+  margin: 0; padding: 10%;
+
 }
 #imagelist{
   list-style: none;
 }
+
+ul{
+  text-align: block;
+}
 li{
-  float: left;
+  display: inline-block;
 }
 img{
     width: 400px;
