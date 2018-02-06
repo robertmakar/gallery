@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: 'vogamedium';
+    src: url('voga-medium-webfont.woff2') format('woff2'),
+         url('voga-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.titleclass{
+  height: 400px;
+}
+#title{
+  font-family: 'Pacifico', cursive;
+  color: #232323;
+  font-size: 80px;
+  text-align: center;
+  margin-top: 300px;
+  margin-bottom: 300px;
+}
+#imagelist{
+  list-style: none;
+}
+li{
+  float: left;
+}
+img{
+    width: 400px;
+
+}
