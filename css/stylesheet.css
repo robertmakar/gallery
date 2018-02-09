@@ -11,15 +11,21 @@
 
 }
 #title{
-  font-family: 'Pacifico', cursive;
-  color: #fdadaa;
-  font-size: 100px;
+  font-family: Monospace;
+  color: #494c4a;
+  font-size: 90px;
   text-align: center;
-  margin: 0; padding: 10%;
+  margin: 0; padding: 25%;
 
 }
 #imagelist{
   list-style: none;
+}
+body, html{
+  height: 100%;
+}
+body {
+  background-color: #f2f1e8;
 }
 
 ul{
